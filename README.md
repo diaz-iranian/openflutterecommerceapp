@@ -4,7 +4,7 @@ Open Flutter Project E-commerce App is mobile application for e-commerce. We are
 
 ## The code Improvement Challenge
 
-[Open Flutter Project: The Code Improvement Challenge](https://medium.com/@openflutterproject/open-flutter-project-the-code-improvement-challenge-ef04d9c6f716)
+
 
 The idea behind the competition is to improve your Flutter development skills within a set period in a group of other enthusiasts. The challenge will last for a week when everyone can propose a code improvement for the app we build and submit it with a pull request.
 
